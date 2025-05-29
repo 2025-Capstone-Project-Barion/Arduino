@@ -1,6 +1,8 @@
 # `Arduino:` LinearActuator-Receiver
 `Arduino:` Controlling linear actuators via serial communication with RubikPi
 
+<p align="center"><img src="https://github.com/user-attachments/assets/cd126946-7862-4712-a1a4-f9f3487c9770" width="700"/></p>
+
 <br>
 
 ## 개요

@@ -14,6 +14,18 @@
 <br>
 
 
+## 🛠 Tech Stack
+
+### 🔌 Hardware Control
+
+|Category|Technology|
+|-|-|
+|<div align="center">**Hardware Controller**</div>|<div align="center">![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)</div>|  
+|<div align="center">**Hardware**</div>|<div align="center">**🖥️ Touch Display / ⚙️ Linear Actuator**</div>|  
+|<div align="center">**Programming Language**</div>|<div align="center">![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)</div>|
+
+<br>
+
 ## 하드웨어 연결
 
 - IN1: 액추에이터 제어 핀 1 → Arduino 디지털 9번 핀
